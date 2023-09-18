@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="button_PLAY">PLAY</string>
+    <string name="button_UPDATE">Обновить</string>
+</resources>
